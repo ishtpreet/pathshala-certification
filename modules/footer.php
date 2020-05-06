@@ -1,0 +1,17 @@
+<script type='text/javascript' src='./wp-content/plugins/nucleus-core/assets/js/scrollreveal.min.js'></script>
+<script type='text/javascript' src='./wp-content/plugins/nucleus-core/assets/js/owl.carousel.min.js'></script>
+<script type='text/javascript' src='./wp-content/plugins/nucleus-core/assets/js/isotope.pkgd.min.js'></script>
+<script type='text/javascript' src='./wp-content/plugins/nucleus-core/assets/js/magnific-popup.min.js'></script>
+<script type='text/javascript' src='./wp-content/plugins/nucleus-core/assets/js/jquery.spincrement.js'></script>
+<script type='text/javascript' src='./wp-content/plugins/nucleus-core/assets/js/waypoints.min.js'></script>
+<script type='text/javascript' src='./wp-content/plugins/nucleus-core/assets/js/jquery.downCount.js'></script>
+<script type='text/javascript' src='./wp-content/plugins/nucleus-core/assets/js/nucleus-core.js'></script>
+<script type='text/javascript' src='./wp-content/themes/nucleus/js/vendor/bootstrap.min.js'></script>
+<script type='text/javascript' src='./wp-content/themes/nucleus/js/vendor/velocity.min.js'></script>
+<script type='text/javascript' src='./wp-content/themes/nucleus/js/vendor/waves.min.js'></script>
+<script type='text/javascript' src='./wp-content/themes/nucleus/js/vendor/jquery.easing.min.js'></script>
+<script type='text/javascript' src='./wp-content/themes/nucleus/js/vendor/icheck.min.js'></script>
+<script type='text/javascript' src='./wp-content/themes/nucleus/js/vendor/preloader.min.js'></script>
+<script type='text/javascript' src='./wp-content/themes/nucleus/js/scripts.js'></script>
+<script type='text/javascript' src='./wp-includes/js/wp-embed.mina2c7.js?ver=4.6.8'></script>
+<script type='text/javascript' src='./wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min0147.js?ver=4.12'></script>
