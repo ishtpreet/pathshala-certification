@@ -1,2 +1,0 @@
-[01-Sep-2018 06:27:32 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/upesc9pa/public_html/certification/email/index.php on line 22
-[01-Sep-2018 06:35:29 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/upesc9pa/public_html/certification/email/index.php on line 22
